@@ -15,3 +15,9 @@ Original resource: https://www.elastic.co/search-labs/blog/rag-with-llamaIndex-a
 - Create streamlit user interface for the app
 - Look into deployment / hosting for demoing
 
+## Streamlit
+
+```bash
+streamlit run app.py
+```
+

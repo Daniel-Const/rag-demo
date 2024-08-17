@@ -4,4 +4,5 @@ llama-index-llms-ollama
 llama-index-vector-stores-elasticsearch
 sentence-transformers
 python-dotenv
+streamlit
 
