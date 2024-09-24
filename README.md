@@ -2,6 +2,8 @@
 
 Demo for RAG pattern combining search retrieval and LLM text generation.
 
+[Code source](https://www.elastic.co/search-labs/blog/rag-with-llamaIndex-and-elasticsearch)
+
 ## Python setup 
 
 ```bash
