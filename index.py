@@ -32,7 +32,7 @@ es_vector_store = ElasticsearchStore(
         index_name="calls",
         vector_field='conversation_vector',
         text_field='conversation',
-        es_url='http://localhost:9200',
+        es_url='http://localhost:9200'
         # es_cloud_id=os.getenv("ELASTIC_CLOUD_ID"),
         # es_api_key=os.getenv("ELASTIC_API_KEY"))
 )
